@@ -12,7 +12,7 @@
 #define DEFAULT_POWER       true
 #define DEFAULT_HUE         180
 #define DEFAULT_SATURATION  100
-#define DEFAULT_BRIGHTNESS  25
+#define DEFAULT_BRIGHTNESS  20
 
 extern esp_rmaker_device_t *light_device;
 
